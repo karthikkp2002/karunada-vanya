@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme — no action bar, dark status bar -->
+    <style name="Theme.KarunadaVanyaa" parent="Theme.AppCompat.NoActionBar">
+        <!-- Dark green background matching the HTML app -->
+        <item name="android:windowBackground">@color/app_bg</item>
+        <!-- Dark status bar -->
+        <item name="android:statusBarColor">@color/app_bg</item>
+        <!-- Dark navigation bar -->
+        <item name="android:navigationBarColor">@color/app_bg</item>
+    </style>
+
+</resources>

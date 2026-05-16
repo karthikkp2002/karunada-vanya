@@ -95,7 +95,6 @@ The application integrates a web-based wildlife platform inside a native Android
 | WebView                 | Rendering web platform inside Android |
 | HTML                    | Frontend structure                    |
 | CSS                     | Styling & responsive design           |
-| JavaScript              | Interactive frontend functionality    |
 | Gradle                  | Build system                          |
 | Material Design         | Android UI design                     |
 
